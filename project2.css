@@ -1,0 +1,33 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+    background-image: url(img/Nile.jpg);
+    height: 250px;
+    background-position: center center;
+    background-size: cover;
+    border: 2px solid black;
+    text-shadow: 3px 2px whitesmoke;
+    padding-top: 100px;
+    letter-spacing: 3px;
+
+}
+
+h2{
+    text-shadow: 2px 1px green;
+}
+
+h3{
+    background-color: green;
+    font-size: 12px;
+    border-bottom: 2px ridge black;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 1px;
+    text-align: center;
+    margin: 2px;
+}
